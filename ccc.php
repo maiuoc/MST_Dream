@@ -1,4 +1,3 @@
 <?php
-echo 'Cai dinh menh
-';
+echo 'Cai dinh menh mai uoc';
 ?>
