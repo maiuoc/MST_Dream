@@ -7,3 +7,20 @@ function b2maiuoc()
 	
 }
  ?>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <?php 
+ echo 'Test Conflit';
+ ?>
