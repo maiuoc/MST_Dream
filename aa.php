@@ -20,4 +20,7 @@ function b1Maiuoc()
 	
 }
 ?>
+ <?php 
+ echo 'Test Conflit';
+ ?>
 
