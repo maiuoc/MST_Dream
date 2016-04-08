@@ -10,3 +10,11 @@ function AED()
 	echo 'Mai uoc';
 }
 ?>
+
+<?php
+function b2maiuoc()
+{
+	
+}
+ ?>
+
