@@ -5,3 +5,7 @@
 <?php 
 echo 'Mai uoc';
 ?>
+
+<?php 
+echo 'Mai uoc 2';
+?>
