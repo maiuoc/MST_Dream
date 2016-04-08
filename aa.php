@@ -7,3 +7,9 @@ function AED()
 	echo 'Mai uoc';
 }
 ?>
+<?php 
+function b1Maiuoc()
+{
+	
+}
+?>
