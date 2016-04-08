@@ -4,3 +4,9 @@
 <?php echo 'I Want to add new funtion()' ?>
 
 
+<?php 
+function AED()
+{
+	echo 'Mai uoc';
+}
+?>
